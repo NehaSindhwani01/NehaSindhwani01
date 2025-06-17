@@ -19,7 +19,7 @@
 AND MANY MINOR PROJECTS LIKE : **Spotify-Clone** , **Weather-Widget** , **Simon-Says-Game**
 
 ## 📫 Let's Connect!
-- LinkedIn: [linkedin.com/in/nehasindhwani]([https://www.linkedin.com/in/neha-sindhwani-2913b8331/])
+- LinkedIn: [linkedin.com/in/neha-sindhwani-2913b8331](https://www.linkedin.com/in/neha-sindhwani-2913b8331/)
 - GitHub: [github.com/NehaSindhwani01](https://github.com/NehaSindhwani01)
 
 
