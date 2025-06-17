@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Neha Sindhwani!
 
-<!--
-**NehaSindhwani01/NehaSindhwani01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE student at Maharishi Dayanand University, Rohtak  
+💻 Full Stack Web Developer | MERN Stack | Java | DSA  
+🚀 Currently working on Crypto Price Tracker and Wanderlust  
+📈 Passionate about solving real-world problems with clean code  
+🌟 Goal: Software Engineer | Software Developet 
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- Languages: Java, JavaScript, HTML, CSS
+- Frameworks: Node.js, Express.js, Bootstrap , React.js
+- Databases: MongoDB
+- Tools: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Projects
+- **Wanderlust**: Full-stack travel listing app
+- **Crypto Price Tracker**: Real-time prices, live currency filter
+
+AND MANY MINOR PROJECTS LIKE : **Spotify-Clone** , **Weather-Widget** , **Simon-Says-Game**
+
+## 📫 Let's Connect!
+- LinkedIn: [linkedin.com/in/nehasindhwani]([https://www.linkedin.com/in/neha-sindhwani-2913b8331/])
+- GitHub: [github.com/NehaSindhwani01](https://github.com/NehaSindhwani01)
+
+
+_Crafted with love by Neha 💖
+
