@@ -4,7 +4,7 @@
 💻 Full Stack Web Developer | MERN Stack | Java | DSA  
 🚀 Currently working on Crypto Price Tracker and Wanderlust  
 📈 Passionate about solving real-world problems with clean code  
-🌟 Goal: Software Engineer | Software Developet 
+🌟 Goal: Software Engineer | Software Developer
 
 ## 🛠️ Tech Stack
 - Languages: Java, JavaScript, HTML, CSS
