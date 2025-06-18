@@ -23,5 +23,4 @@ AND MANY MINOR PROJECTS LIKE : **Spotify-Clone** , **Weather-Widget** , **Simon-
 - GitHub: [github.com/NehaSindhwani01](https://github.com/NehaSindhwani01)
 
 
-_Crafted with love by Neha 💖
 
