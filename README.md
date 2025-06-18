@@ -7,9 +7,11 @@
 🌟 Goal: Software Engineer | Software Developer
 
 ## 🛠️ Tech Stack
-- Languages: Java, JavaScript, HTML, CSS
-- Frameworks: Node.js, Express.js, Bootstrap , React.js
-- Databases: MongoDB
+- Languages: Java
+- Frontend Technologies : HTML, CSS, JavaScript
+- Backend Technologies : Node.js
+- Frameworks: Express.js, Bootstrap , Tailwind CSS , Next.js , React.js
+- Databases: MongoDB , SQL
 - Tools: Git, GitHub, VS Code
 
 ## 📚 Projects
