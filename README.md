@@ -2,7 +2,7 @@
 
 🎓 B.Tech CSE student at Maharishi Dayanand University, Rohtak  
 💻 Full Stack Web Developer | MERN Stack | Java | DSA  
-🚀 Currently working on Crypto Price Tracker and Wanderlust  
+🚀 Currently working on Real Time Video Conferencing webapp
 📈 Passionate about solving real-world problems with clean code  
 🌟 Goal: Software Engineer | Software Developer
 
